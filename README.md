@@ -2,6 +2,8 @@
 
 Simple Vue.js app that pulls showerthoughts from the Reddit API
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/38bfd126-7787-44f6-8125-7a162cbe85a3/deploy-status)](https://app.netlify.com/sites/showerthoughts-asyrafhussin/deploys)
+
 ## Project setup
 
 ```
