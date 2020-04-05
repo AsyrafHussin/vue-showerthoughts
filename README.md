@@ -1,10 +1,10 @@
+<div align="center">
+   <img src="screenshot.png" width="600" />
+</div>
+
 # vue-showerthoughts
 
 Simple Vue.js app that pulls showerthoughts from the Reddit API
-
-<div align="center">
-   <img src="screenshot.png" width="800" />
-</div
 
 [showerthoughts-asyrafhussin.netlify.com](https://showerthoughts-asyrafhussin.netlify.com)
 
